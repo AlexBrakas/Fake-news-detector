@@ -3,6 +3,7 @@
 ## 1. Project Overview
 
 This project is to make a machine learning model that can predict if a news article is fake or real. This task will be done with a multinomial naive bayes classifier and an embedding-based model like a BERT model from Huggine Faces. The models will be optimized and compared to determine which model is best for this task.
+
 ---
 
 ## 2. Dataset
@@ -34,6 +35,7 @@ This project is to make a machine learning model that can predict if a news arti
    * Compare the output of models
    * Determine best model type
    * Consider trade-offs
+   
 ---
 
 ## 4. Repository Structure
